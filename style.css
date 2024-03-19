@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+
+*{
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.nav-bar{
+    box-shadow: 2px 2px 0.5rem rgba(0, 0, 0, .3);
+}
+
+
+/* AI for Everyone */
+.AI-for-Everyone{
+    transition-duration: 1s;
+    transition-property: all;
+}
+.AI-for-Everyone:hover{
+    padding: 0.05rem;
+}
+
+
+
+/* Getting Started with Python */
+.Getting-Started-with-Python{
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+.Getting-Started-with-Python:hover{
+    padding: 0.05rem;
+}
+
+
+/* Python Data Structures */
+
+.Python-Data-Structures{
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+.Python-Data-Structures:hover{
+    padding: 0.05rem;
+}
+
+
+/* Using Databases with Python */
+
+.Using-Databases-with-Python{
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+.Using-Databases-with-Python:hover{
+    padding: 0.001rem;
+}
+
+
+/* Using Python to Access Web Data */
+
+.Using-Python-to-Access-Web-Data{
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+.Using-Python-to-Access-Web-Data:hover{
+    padding: 0.001rem;
+}
+
+/* Introduction to Web Design and Development */
+
+.Introduction-to-WDD{
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+.Introduction-to-WDD:hover{
+    padding: 0.001rem;
+}
+
+
+
+
+footer{
+    background-color: #0c2461;
+}
+
+.easy-learn-email{
+    text-decoration: none;
+}
+
+
+
+
